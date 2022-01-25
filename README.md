@@ -1,4 +1,4 @@
-<h1 align="center">Hi,🙋‍♂️ I'm Ritesh Gupta</h1>
+<h1 align="center">Hi 🙋‍♂️ I'm Ritesh Gupta</h1>
 <h3 align="center">I am a full-stack (MERN) Web developer based in India.</h3>
 
 <p align="left"> <a href="https://twitter.com/r12esh" target="blank"><img src="https://img.shields.io/twitter/follow/r12esh?logo=twitter&style=for-the-badge" alt="r12esh" /></a> </p>
