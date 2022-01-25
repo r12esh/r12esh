@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **a MERN app for a Shopping website**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/r12esh?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/r12esh?tab=repositories){:target="_blank"}
 
 - 💬 Ask me about **React, Redux, Redux-saga, MongoDB**
 
-- 📫 Reach me at **ritesh098765432@gmail.com or DM me on [Instagram](https://instagram.com/r12esh) or [LinkedIn](https://linkedin.com/in/r12esh/)**
+- 📫 Reach me at **ritesh098765432@gmail.com or DM me on [Instagram](https://instagram.com/r12esh){:target="_blank"} or [LinkedIn](https://linkedin.com/in/r12esh/){:target="_blank"}**
 
 - ⚡ Fun fact **I love Rockets and playing football**
 
