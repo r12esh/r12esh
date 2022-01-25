@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Redux, Redux-saga, MongoDB**
 
-- 📫 How to reach me **ritesh098765432@gmail.com**
+- 📫 Reach me at **ritesh098765432@gmail.com or DM me on Insta or LinkedIn**
 
 - ⚡ Fun fact **I love Rockets and playing football**
 
@@ -28,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r12esh&show_icons=true&locale=en&layout=compact" alt="r12esh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r12esh&" alt="r12esh" /></p>
-
