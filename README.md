@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Redux, Redux-saga, MongoDB**
 
-- 📫 Reach me at **ritesh098765432@gmail.com or DM me on [Instagram](https://instagram.com/r12esh) or [LinkedIn](https://linkedin.com/r12esh)**
+- 📫 Reach me at **ritesh098765432@gmail.com or DM me on [Instagram](https://instagram.com/r12esh) or [LinkedIn](https://linkedin.com/in/r12esh/)**
 
 - ⚡ Fun fact **I love Rockets and playing football**
 
