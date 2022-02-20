@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️ I'm Ritesh Gupta</h1>
-<h3 align="center">I am a Web developer based in India</h3>
+<h3 align="center">I am a Full Stack (MERN) Web developer based in India</h3>
 
 - 🔭 I’m currently working on **a MERN app for a Shopping website**
 
