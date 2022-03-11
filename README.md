@@ -12,9 +12,6 @@
 - ⚡ Fun fact **I love Rockets and playing football**
 
 <h3 align="left">Connect with me:</h3>
-
-<p align="left"> <a href="https://twitter.com/r12esh" target="blank"><img src="https://img.shields.io/twitter/follow/r12esh?logo=twitter&style=for-the-badge" alt="r12esh" /></a> </p>
-
 <p align="left">
 <a href="https://twitter.com/r12esh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r12esh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/r12esh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r12esh" height="30" width="40" /></a>
