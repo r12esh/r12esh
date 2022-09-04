@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🙋‍♂️ I'm Ritesh Gupta</h1>
 <h3 align="center">I am a Frontend Web developer based in India</h3>
 
-- 🔭 I’m currently working on **a Landing page for GPT3**
-
 - 👨‍💻 All of my projects are available [**here**](https://github.com/r12esh?tab=repositories)
 
 - 💬 Ask me about **React, Redux, Redux-saga, MongoDB**
